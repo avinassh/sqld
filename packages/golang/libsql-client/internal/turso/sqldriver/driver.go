@@ -7,7 +7,7 @@ import (
 	"io"
 	"sort"
 
-	tursohttp "gitlab.com/libsql/sqld/packages/golang/libsql-client/internal/turso/http"
+	tursohttp "github.com/avinassh/sqld/packages/golang/libsql-client/internal/turso/http"
 )
 
 type tursoResult struct {

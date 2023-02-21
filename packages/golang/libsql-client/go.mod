@@ -1,4 +1,4 @@
-module gitlab.com/libsql/sqld/packages/golang/libsql-client
+module github.com/avinassh/sqld/packages/golang/libsql-client
 
 go 1.19
 
